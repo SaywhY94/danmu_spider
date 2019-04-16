@@ -11,6 +11,7 @@ python bili_danmu_spider.py -i 'cid' -o 'filename'
 1. ``-i``：输入excel文件的名称
 2. ``-o``：输入数据要处理的列明
 3. ``-n``或``--ncores``：处理是并行的线程数
+
 示例：python bili_danmu_spider.py -i xxxxxxxx -o test.csv
 
 如需要查看命令行参数可输入
